@@ -1,2 +1,2 @@
 # UNS
-Proyectos de la universidad
+Proyecto de Computación II
