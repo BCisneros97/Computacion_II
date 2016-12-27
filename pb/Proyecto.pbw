@@ -3,6 +3,7 @@ Save Format v3.0(19990112)
 @end;
 @begin Targets
  0 "complejodeportivo.pbt";
+ 1 "ruben.pbt";
 @end;
-DefaultTarget "complejodeportivo.pbt";
-DefaultRemoteTarget "complejodeportivo.pbt";
+DefaultTarget "ruben.pbt";
+DefaultRemoteTarget "ruben.pbt";
